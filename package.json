@@ -14,5 +14,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/samuraiza/socket-basics/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4"
   }
 }
